@@ -9,7 +9,7 @@
     <meta name="keywords" content="">
 
 
-    <title>ABAN SOBANA, S.Kom</title>
+    <title>ABAN SOBANA </title>
     <link rel="icon" href="images/fav-icon.png">
 
     <!--APPLE TOUCH ICON-->
@@ -56,7 +56,7 @@
             <!-- NAME & STATUS -->
             <div class="text-holder text-center">
                 <h2>ABAN SOBANA</h2>
-                <h6>Software Engineer & IT Analyst </h6>
+                <h6>Network Engineer & IT Support </h6>
             </div>
         </div>
     </div>
@@ -120,7 +120,7 @@
                                 <!-- NAME & STATUS -->
                                 <div class="info-headings">
                                     <h4 class="text-uppercase left">Aban Sobana</h4>
-                                    <h6 class="text-capitalize left">Software Engineer & IT Analyst</h6>
+                                    <h6 class="text-capitalize left">Network Engineer & IT Support</h6>
                                 </div>
 
                                 <!-- CONTACT INFO -->
@@ -190,7 +190,7 @@
                     <div class="card-content">
                         <!-- ABOUT PARAGRAPH -->
                         <p>
-                            Halo! Saya Aban Sobana. Senior Web Developer dengan lebih dari 13 tahun pengalaman yang mengkhususkan diri dalam pengembangan ujung depan. Berpengalaman dengan semua tahapan siklus pengembangan untuk proyek web dinamis. Memiliki pengetahuan mendalam termasuk HTML5 canggih, CSS, CSS3, SASS, KURANG, JSON, XML, Java, JavaScript, JQuery, JS Sudut. Latar belakang yang kuat dalam manajemen dan kepemimpinan
+                            Hallo! Saya Aban Sobana. Saya Fresh Graduate lulus tahun 2018, Saya mengambil program bidang studi Sistem Komputer di Universitas Bungkarno. Saya mengkhususkan diri fokus dalam pengembangan Jaringan dan ilmu komputer. Berpengalaman dengan semua tahapan siklus pengembangan untuk proyek Networking. Memiliki pengetahuan tentang  Networking dan Pemograman Web. Latar belakang yang kuat dalam manajemen dan kepemimpinan.
                         </p>
                     </div>
 
@@ -329,7 +329,7 @@
                         </div>
                         <!-- TIMELINE PARAGRAPH -->
                         <p>
-                            Saya menyelesaikan gelar  S.Kom ini dari institusi bergengsi ini. Saya berhasil menyelesaikan semua kredit dan mendapat nilai A secara keseluruhan...
+                            Saya menyelesaikan gelar S.Kom ini dari institusi bergengsi ini. Saya berhasil menyelesaikan semua kredit dan mendapat nilai A secara keseluruhan...
                         </p>
                         <!-- BUTTON TRIGGER MODAL -->
                         <a href="#" class="modal-dot" data-toggle="modal" data-target="#myModal-2">
@@ -338,36 +338,6 @@
                     </div>
                 </div>
             </div>
-            <!-- SIXTH TIMELINE -->
-            <div class="timeline-block">
-                <!-- DOT -->
-                <div class="timeline-dot"><i class="fa fa-globe"></i></div>
-                <!-- TIMELINE CONTENT -->
-                <div class="card timeline-content">
-                    <div class="card-content">
-                        <!-- TIMELINE TITLE -->
-                        <h6 class="timeline-title">Cloude Computing</h6>
-                        <!-- TIMELINE TITLE INFO -->
-                        <div class="timeline-info">
-                            <h6>
-                                <small>Universitas Indonesia</small>
-                            </h6>
-                            <h6>
-                                <small>Oktober 2018</small>
-                            </h6>
-                        </div>
-                        <!-- TIMELINE PARAGRAPH -->
-                        <p>
-                           Sayamendapatkan sertifikat ini dari institusi bergengsi ini. Saya berhasil menyelesaikan dengan baik secara keseluruhan.
-                        </p>
-                        <!-- BUTTON TRIGGER MODAL -->
-                        <a href="#" class="modal-dot" data-toggle="modal" data-target="#myModal-3">
-                            <i class="fa fa-ellipsis-h" aria-hidden="true"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
         </div>
     </div>
 </section>
@@ -396,25 +366,25 @@
                                 <div class="skillbar" data-percent="90%">
                                     <div class="skillbar-title"><span>HTML5</span></div>
                                     <div class="skillbar-bar"></div>
-                                    <div class="skill-bar-percent">90%</div>
+                                    <div class="skill-bar-percent">70%</div>
                                 </div>
                                 <!-- SECOND SKILL BAR  -->
                                 <div class="skillbar" data-percent="90%">
-                                    <div class="skillbar-title"><span>CSS3</span></div>
-                                    <div class="skillbar-bar"></div>
-                                    <div class="skill-bar-percent">90%</div>
-                                </div>
-                                <!-- THIRD SKILL BAR  -->
-                                <div class="skillbar" data-percent="70%">
-                                    <div class="skillbar-title"><span>jQuery</span></div>
+                                    <div class="skillbar-title"><span>Desain Grafis</span></div>
                                     <div class="skillbar-bar"></div>
                                     <div class="skill-bar-percent">70%</div>
                                 </div>
-                                <!-- FOURTH SKILL BAR  -->
-                                <div class="skillbar" data-percent="68%">
+                                <!-- THIRD SKILL BAR  -->
+                                <div class="skillbar" data-percent="70%">
                                     <div class="skillbar-title"><span>PHP</span></div>
                                     <div class="skillbar-bar"></div>
-                                    <div class="skill-bar-percent">68%</div>
+                                    <div class="skill-bar-percent">80%</div>
+                                </div>
+                                <!-- FOURTH SKILL BAR  -->
+                                <div class="skillbar" data-percent="68%">
+                                    <div class="skillbar-title"><span>Jaringan</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">78%</div>
                                 </div>
                             </div>
 
@@ -458,25 +428,25 @@
                                 </div>
                                 <!-- FIRST SKILL BAR -->
                                 <div class="skillbar" data-percent="80%">
-                                    <div class="skillbar-title"><span>Adobe Illustrator</span></div>
+                                    <div class="skillbar-title"><span>Notepad++</span></div>
                                     <div class="skillbar-bar"></div>
-                                    <div class="skill-bar-percent">80%</div>
+                                    <div class="skill-bar-percent">70%</div>
                                 </div>
                                 <!-- SECOND SKILL BAR  -->
                                 <div class="skillbar" data-percent="70%">
-                                    <div class="skillbar-title"><span>Adobe InDesign</span></div>
+                                    <div class="skillbar-title"><span>Corel Draw</span></div>
                                     <div class="skillbar-bar"></div>
                                     <div class="skill-bar-percent">70%</div>
                                 </div>
                                 <!-- THIRD SKILL BAR  -->
                                 <div class="skillbar" data-percent="60%">
-                                    <div class="skillbar-title"><span>PHP Storm</span></div>
+                                    <div class="skillbar-title"><span>Winbox</span></div>
                                     <div class="skillbar-bar"></div>
                                     <div class="skill-bar-percent">60%</div>
                                 </div>
                                 <!-- FOURTH SKILL BAR  -->
                                 <div class="skillbar" data-percent="80%">
-                                    <div class="skillbar-title"><span>Dev Console</span></div>
+                                    <div class="skillbar-title"><span>FileZilla</span></div>
                                     <div class="skillbar-bar"></div>
                                     <div class="skill-bar-percent">80%</div>
                                 </div>
@@ -540,7 +510,7 @@
                 <div class="card timeline-content">
                     <div class="card-content">
                         <!-- TIMELINE TITLE -->
-                        <h6 class="timeline-title">PT.Bluexceng</h6>
+                        <h6 class="timeline-title">PT.Blue Excheng</h6>
                         <!-- TIMELINE TITLE INFO -->
                         <div class="timeline-info">
                             <h6>
@@ -570,7 +540,7 @@
                 <div class="card timeline-content">
                     <div class="card-content">
                         <!-- TIMELINE TITLE -->
-                        <h6 class="timeline-title">IT Analyst</h6>
+                        <h6 class="timeline-title">IT Support </h6>
                         <!-- TIMELINE TITLE INFO -->
                         <div class="timeline-info">
                             <h6>
@@ -582,7 +552,7 @@
                         </div>
                         <!-- TIMELINE PARAGRAPH -->
                         <p>
-                            Saya memulai operator dan menjadi IT suport saya di sini. Membingbing para guru dan murid memperkenalkan penggunaan teknologi dan membantu merapihkan data dari manual ke digital
+                            Saya memulai menjadi administrator dan menjadi IT Support saya di sini. Membingbing para guru dan murid memperkenalkan penggunaan teknologi dan membantu merapihkan data dari manual ke digital
                         </p>
 						<!-- BUTTON TRIGGER MODAL -->
                         <a href="#" class="modal-dot" data-toggle="modal" data-target="#myModal-4">
